@@ -1,1 +1,1 @@
-console.log("Bom dia");
+console.log("This is my first Git commit.");
