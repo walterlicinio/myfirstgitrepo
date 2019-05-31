@@ -1,1 +1,1 @@
-console.log("This is my first Git commit.");
+console.log("This is my first Git commit!");
